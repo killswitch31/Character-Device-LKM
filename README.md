@@ -9,7 +9,7 @@ To compile this code:
 
 To execute:
 
-1.$ sudo insmod chardev
+1.$ sudo insmod chardev.ko
 
 2.$ ./test write "HELLO_TSN2434"
 
