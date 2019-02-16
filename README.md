@@ -7,8 +7,10 @@ To compile this code:
 
 1.$ make 
 
-2.$ sudo insmod chardev
+To execute:
 
-3.$ ./test write "HELLO_TSN2434"
+1.$ sudo insmod chardev
 
-4.$ ./test read 14
+2.$ ./test write "HELLO_TSN2434"
+
+3.$ ./test read 14
